@@ -9,3 +9,8 @@
 * etc...
 
 ## you also can use this base project on you develop.
+
+## some useful command
+
+* `mvn -N clean install`
+(install parent pom file to local)
